@@ -14,10 +14,6 @@
 - ⚡ Fun fact: **Love to watch Anime.**
 
 
-<h3 align="left">⚒️ Github Trophies:</h3>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishnaanurag01" alt="krishnaanurag01" /></a> </p>
 
 
 <h3 align="left">💘 Connect with me:</h3>
@@ -52,3 +48,9 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnaanurag01&" alt="krishnaanurag01" /></p>
+
+
+<h3 align="left">⚒️ Github Trophies:</h3>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishnaanurag01" alt="krishnaanurag01" /></a> </p>
