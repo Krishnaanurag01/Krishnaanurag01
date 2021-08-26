@@ -1,5 +1,5 @@
 <h1 align="center">Hiya! 👋, I'm Anurag Krishna</h1>
-<h3 align="center">I'm an undergraduate student ,Indulged in competitive programming ,Android ,Field of Interest is Computer Vision. My B.Tech is focused in Information Technology. I'm gearing myself up to be a great Developer.</h3>
+<h3 align="center">I'm an undergraduate student ,Indulged in Data Structures and Algorithms ,competitive programming ,Android ,Field of Interest is Computer Vision. My B.Tech is focused in Information Technology. I'm gearing myself up to be a great Developer.</h3>
 
 
 
