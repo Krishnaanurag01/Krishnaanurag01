@@ -54,3 +54,8 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishnaanurag01" alt="krishnaanurag01" /></a> </p>
+
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnaanurag01&label=Profile%20views&color=0cd413&style=flat" alt="krishnaanurag01" /> </p>
+
