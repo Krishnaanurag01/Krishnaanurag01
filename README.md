@@ -1,5 +1,5 @@
 <h1 align="center">Hiya! 👋, I'm Anurag Krishna</h1>
-<h3 align="center">Hi, I am a final year Information Technology undergraduate from Galgotia's College of Engineering and Technology. My primary interest lies in Data Structures and Algorithm, solving DSA Problems and Web Development. Have a look at my coding skills or just connect with me over linkedin. There's certainly yet more to learn, yet more problems to solve, and yet more to build. And for this, I am very grateful. </h3>
+<h3 align="center">Hi, I am a final year Information Technology undergraduate from Galgotia's College of Engineering and Technology. My primary interest lies in Data Structures and Algorithms, solving DSA Problems, and Web Development. Have a look at my coding skills or just connect with me over LinkedIn. There's certainly yet more to learn, yet more problems to solve, and yet more to build. And for this, I am very grateful. </h3>
 
 
 
